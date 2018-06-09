@@ -1,5 +1,5 @@
 # bootstrap-show-password
-Bootstrap show input password when click on icon
+Bootstrap 4 show input password when click on icon
 
 include plugin file
 
