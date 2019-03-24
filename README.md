@@ -1,6 +1,8 @@
 # bootstrap-show-password
 Bootstrap 4 show input password when click on icon
 
+<a href="http://jsfiddle.net/zkou4dej/"><b>Demo URL</b></a>
+
 include plugin file
 
 ```bash
