@@ -1,5 +1,5 @@
 {
-  "name": "bootstrap-show-password",
+  "name": "bootstrap4-show-password",
   "version": "1.0.0",
   "description": "Bootstrap 4 show input password when click on icon",
   "main": "bootstrap-show-password.js",
