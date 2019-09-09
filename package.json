@@ -1,0 +1,26 @@
+{
+  "name": "bootstrap-show-password",
+  "version": "1.0.0",
+  "description": "Bootstrap 4 show input password when click on icon",
+  "main": "bootstrap-show-password.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abdo-host/bootstrap-show-password.git"
+  },
+  "keywords": [
+    "bootstrap",
+    "show-password"
+  ],
+  "author": "Abdo-Host",
+  "license": "(CC-BY-4.0 AND OFL-1.1 AND MIT)",
+  "bugs": {
+    "url": "https://github.com/abdo-host/bootstrap-show-password/issues"
+  },
+  "homepage": "https://github.com/abdo-host/bootstrap-show-password#readme"
+}
