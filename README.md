@@ -3,7 +3,7 @@ Bootstrap 4 show input password when click on icon
 
 <a href="https://codepen.io/Abdo-Host/pen/oNyZLKQ"><b>Demo URL</b></a>
 
-[![npm](https://img.shields.io/npm/v/zatca.svg)](https://www.npmjs.com/package/zatca)
+[![npm](https://img.shields.io/npm/v/bootstrap4-show-password.svg)](https://www.npmjs.com/package/bootstrap4-show-password)  [![downloads](https://img.shields.io/npm/dm/bootstrap4-show-password.svg)](https://npmjs.org/package/bootstrap4-show-password)
 
 ```bash
 npm install bootstrap4-show-password --save 
